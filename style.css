@@ -50,6 +50,7 @@ h3#header {
   color: #868e96;
 }
 
+/* why did this one need div in front of class but not the following two? */
 div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
